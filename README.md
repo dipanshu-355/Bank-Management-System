@@ -117,20 +117,6 @@ The system includes the following core features:
      - Check account balance.
      - Logout securely.
 
----
-
-Folder Structure
-
-project-root
-├── src/                # Source code
-│   └── BankingApp.java (Main class)
-│   └── Accounts.java, Statement.java, User.java, AccountManager.java (other classes)
-├── resources/          # Resources
-│   └── db.properties  # Database configuration
-├── docs/               # Documentation
-│   └── schema.sql    # Database schema
-└── README.md           # Project README
-
 
  Future Enhancements
 
